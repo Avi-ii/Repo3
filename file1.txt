@@ -1,1 +1,13 @@
-first file
+Account-19,333
+Dost-1000
+Bhaiya-1000
+Sanket-2500
+Golu-200
+purse-1000
+------------
+total-25033
+------------
+
+
+Now nishant-vegetable =1000 
+so 25033-1000=24033
